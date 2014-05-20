@@ -1,5 +1,5 @@
 A Ruby Begginers Guide to Big O Notation
-
+===========================
 Math kind of scares me, which sucks because as an aspiring programmer I know that I need to develope an at least passing familiarity with alorithms to reach my full potential.  After a lot of seaching online, I found an article by Robb Bell (rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/), which made the concept of "Big O Notation" a little less scary.  The code examples he provides were helpful to me in digesting in.  The purpose of this guide is to try and make it easier for DBC students (or anyone most familiar with Ruby) to digest these concepts.
 
 O(1)
@@ -52,6 +52,8 @@ def bubble_sort(list)
   end
   list
 end
+
+```
 
 O(log N)
 ==============================
